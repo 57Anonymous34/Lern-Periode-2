@@ -10,18 +10,18 @@ Meine Idee für diese Lernperiode wäre, dass ich mehrere Sachen Programmiere z.
 
 ## 25.10.2024
 
-- [ ] ...Number Guesser erstellen, was einzeigt wie viel versuche man gebracht hat.
+- [ ] ...Number Guesser erstellen, was einzeigt wie viel versuche man gebraucht hat.
 - [ ] ...Mehr Wissen über c# haben.
 
 ✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mit dem Navid ein Number Guesser, Notenrechner und einen Sicherheitsprogramm programmiert. Am Anfang habe ich nichts verstanden. Ich wusste nicht wie ich anfangen soll. Langsam habe ich den Number Guesser programmiert, so das man die Nummer schon weiss und dan habe ich mich mit dem Navid hoch gearbeitet. Ich habe mich verbessert. Meine Arbeitspakete habe ich erledigt. Ich bin sehr zu frieden.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+ 
 
-## 1.11.2024
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Codeacedemy Teil 11 (lists)
+- [ ] Ich mach andere kleine projekte. Zum Üben, damit ich mich verbessere.
+- [ ] Falls ich noch genügend Zeit habe, verbessere ich miene Projekte.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
