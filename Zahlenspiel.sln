@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zahlenspiel", "Zahlenspiel\Zahlenspiel.csproj", "{703134EC-2F1A-4923-B9D7-EC2F93A881D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703134EC-2F1A-4923-B9D7-EC2F93A881D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703134EC-2F1A-4923-B9D7-EC2F93A881D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703134EC-2F1A-4923-B9D7-EC2F93A881D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703134EC-2F1A-4923-B9D7-EC2F93A881D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8911813B-AABE-490B-BF59-A88C44823A63}
+	EndGlobalSection
+EndGlobal
