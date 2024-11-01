@@ -21,7 +21,7 @@ Heute habe ich mit dem Navid ein Number Guesser, Notenrechner und einen Sicherhe
 
 - [ ] Codeacedemy Teil 11 (lists)
 - [ ] Ich mach andere kleine projekte. Zum Üben, damit ich mich verbessere.
-- [ ] Falls ich noch genügend Zeit habe, verbessere ich miene Projekte.
+- [ ] Falls ich noch genügend Zeit habe, verbessere ich meine Projekte.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
