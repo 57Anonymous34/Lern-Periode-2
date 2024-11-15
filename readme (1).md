@@ -37,8 +37,17 @@ Heute habe ich mit dem Navid und Damjan ein Quiz-Spiel programmiert. Der Compute
 ✍️ Heute habe ich... (50-100 Wörter)
 Heute habe ich das Schere, Stein, Papier projekt fertig programmiert. Man kann jetzt mehrere Spiele spielen und pro Runde werden Pünkte gegebn oder ab gezogen. Wenn man gewinnt bekommt man ein Punkt, wenn es unentschieden ist bekommt man nichts und bei einer Niederlage wird ein Punkt weg genommen. Am Ende des Spiels steht die Endgültige Punktzahl. Ich habe einen BMI Rechner Angefangen, mit dem kann man aber nnicht gut rechner, es gibt nicht die Richtige Resultate.
 ## 15.11.2024
-- [ ] BMI Rechner fertig Programmieren( Endresultat)
-- [ ] BMI Recgner klarer Prograammieren
-- [ ] Neues Projekt programmieren
-- [ ] Weiter programmieren
+- [x] BMI Rechner fertig Programmieren( Endresultat)
+- [ ] BMI Rechner klarer Programmieren
+- [x] Neues Projekt programmieren
+- [x] Weiter programmieren
+
+✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich meinen BMI Rechner fertig Programmiert. Das Endresultat wird jetzt angezeigt. Ich musste laange überlegen, da ich es  icht verstanden hatte. Mit der kleinen Hilfe von ChatGPT konnte ich die probleme löschen. Weil ich mehr Zeit hatte, hatte ich ein Spiel programmiert, man startet mit 20 Münzen nacher kann man essen kaufen oder Arbeiten. Wenn man arbeitet verdient man münzen und kann dann Essen kaufen. Man kann auch sein Inventar anschauen, um zu sehen was alles drin ist.
+## 22.11.2024
+- [ ] Weiter Programmieren
+- [ ] Einen besseren Taschenrechner programmieren(hochzahlen etc.)
+- [ ] Essen Projekt verbessern(falls ich noch zeit habe)
+- [ ] Vlt nich einmal den BMI Rechner verbessern
+- [ ] 
 
