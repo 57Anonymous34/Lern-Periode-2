@@ -49,5 +49,13 @@ Heute habe ich meinen BMI Rechner fertig Programmiert. Das Endresultat wird jetz
 - [ ] Einen besseren Taschenrechner programmieren(hochzahlen etc.)
 - [ ] Essen Projekt verbessern(falls ich noch zeit habe)
 - [ ] Vlt nich einmal den BMI Rechner verbessern
-- [ ] 
+
+
+✍️ Heute habe ich... (50-100 Wörter)
+
+Heute habe ich ein Taschenrechner programmiert, mit Ptenzen, Wurzeln etc. Ich musste sehr viel im Internet nachschauen, da ich nicht gewusst habe wie man einige Rechnungs-Wege auf c# schreibt. Ich bin sehr zufrieden mit meinem Programm. Ausser das ich noch nicht mit Hochzahlen rechnen kann.
+
+- [ ] Weiter Programmieren
+- [ ] Kalorien(Programm soll dir Tipps gegen, was man essen könnte)
+- [ ] Rechner verbessern
 
