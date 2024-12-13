@@ -59,3 +59,9 @@ Heute habe ich ein Taschenrechner programmiert, mit Ptenzen, Wurzeln etc. Ich mu
 - [ ] Kalorien(Programm soll dir Tipps gegen, was man essen könnte)
 - [ ] Rechner verbessern
 
+✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich den Kalorien rechner fertig programmiert. Alles wird am Schluss grafisch dargestellt. Der Computer gibt dir eine Auswahl von Essen die dir helfen könnte um abzunehmen odwer zu zunehmen. Man muss jeden Tag eingeben wie viele Kalorien man gegessen hat(das geht 7 Tage) Am schluss wird noch angezeigt ob du dein  Ziel erreicht hast o9der nicht. Ich bin sehr zu frieden mit meinem Projekt.
+
+## 20.12.2024
+- [ ] Ein einfaches Notizbuch
+- [ ] Weiter programmieren.
