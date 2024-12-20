@@ -67,7 +67,7 @@ Heute habe ich den Kalorien rechner fertig programmiert. Alles wird am Schluss g
 - [ ] Weiter programmieren.
 
 ## Reflexion Lernperiode 2
-In der zweiten Lernperiode habe ich mich auf die Erstellung eines BMI-Rechners konzentriert. Dieses Projekt hat mir geholfen, mein Verständnis für C# deutlich zu verbessern. Ich hatte einen Zeitdruck wegen meines Schlüsselbeines, da ich wieder eine OP hatte. Dennoch habe ich die verbleibende Zeit gut genutzt und mein Projekt erfolgreich abgeschlossen. Rückblickend bin ich sehr zufrieden mit meinen Fortschritten in dieser Lernperiode. Diese Verbesserung hat mich sehr Motiviert, deshalb freue ich mich für die nächste Lernperiode.
+In der zweiten Lernperiode habe ich mich auf die Erstellung eines BMI-Rechners konzentriert. Ich habe auch noch mehr kleine Projekte gemacht habe mich aber für dieses Projekt entschieden, weil ich viel Zeit investiert habe. Dieses Projekt hat mir geholfen, mein Verständnis für C# deutlich zu verbessern. Ich hatte einen Zeitdruck wegen meines Schlüsselbeines, da ich wieder eine OP hatte. Dennoch habe ich die verbleibende Zeit gut genutzt und mein Projekt erfolgreich abgeschlossen. Rückblickend bin ich sehr zufrieden mit meinen Fortschritten in dieser Lernperiode. Diese Verbesserung hat mich sehr Motiviert, deshalb freue ich mich für die nächste Lernperiode.
 
 ## fertiges Projekt
 ![image](https://github.com/user-attachments/assets/b7aa4c2d-56e5-4214-a18f-3cb4bc1e6ea3)
