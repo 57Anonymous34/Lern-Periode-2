@@ -65,3 +65,23 @@ Heute habe ich den Kalorien rechner fertig programmiert. Alles wird am Schluss g
 ## 20.12.2024
 - [ ] Ein einfaches Notizbuch
 - [ ] Weiter programmieren.
+
+## Reflexion Lernperiode 2
+In der zweiten Lernperiode habe ich mich auf die Erstellung eines BMI-Rechners konzentriert. Dieses Projekt hat mir geholfen, mein Verständnis für C# deutlich zu verbessern. Ich hatte einen Zeitdruck wegen meines Schlüsselbeines, da ich wieder eine OP hatte. Dennoch habe ich die verbleibende Zeit gut genutzt und mein Projekt erfolgreich abgeschlossen. Rückblickend bin ich sehr zufrieden mit meinen Fortschritten in dieser Lernperiode. Diese Verbesserung hat mich sehr Motiviert, deshalb freue ich mich für die nächste Lernperiode.
+
+## fertiges Projekt
+![image](https://github.com/user-attachments/assets/b7aa4c2d-56e5-4214-a18f-3cb4bc1e6ea3)
+
+In diesem Projekt habe ich einen BMI-Rechner gemacht, der so funktioniert:
+
+Zuerst fragt das Programm nach deinem Namen, Alter und deiner Körpergröße. Dann musst du angeben, wie aktiv du bist, weil das den Kalorienbedarf beeinflusst. Nachdem du alles eingegeben hast, berechnet das Programm, wie viele Kalorien du jeden Tag brauchst. Dann zeigt es dir, wie viel Gurken, Hähnchenbrust und Magerquark du essen müsstest, um deinen Kalorienbedarf zu decken. Am Ende siehst du deine Kalorienzahl und die Mengen der Lebensmittel, die du dafür essen müsstest. Das Programm endet mit einer Dankesnachricht.
+
+
+
+
+
+
+
+
+
+
